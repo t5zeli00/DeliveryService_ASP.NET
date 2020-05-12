@@ -1,4 +1,4 @@
-# DeliveryService
+# Delivery service application
 
 Creating a web site with ASP.NET MVC for managing food delivery. This consists of the following functionalities:
 *	Creating new delivery with an order number, name, address, phone number, delivery time slot, food and allergies.
